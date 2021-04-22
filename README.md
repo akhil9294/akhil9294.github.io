@@ -2,7 +2,7 @@
 
 
 ## Akhil Gupta
-Data Scientist at informatica.
+Data Scientist.
 Making machines intelligent to solve challenging business problems
 
 
