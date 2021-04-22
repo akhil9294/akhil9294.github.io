@@ -1,8 +1,6 @@
 ![download](https://user-images.githubusercontent.com/83008569/115708212-55322d00-a38d-11eb-86a6-8047ca09bb7c.png)
-![download](https://user-images.githubusercontent.com/83008569/115708247-5fecc200-a38d-11eb-82a7-88663a67288b.png)
 
 ## Akhil Gupta
-![download](https://user-images.githubusercontent.com/83008569/115707396-5c0c7000-a38c-11eb-906c-57908f412488.png)
 Data Scientist at informatica.
 Making machines intelligent to solve challenging business problems
 You can use the [editor on GitHub](https://github.com/akhil9294/akhil9294.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
