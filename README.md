@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/83008569/115707114-05069b00-a38c-11eb-9e7e-6bc26c3a83f6.png)
 ## Akhil Gupta
 
 Data Scientist at informatica.
